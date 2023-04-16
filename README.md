@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Gil</h1>
 <h3 align="center">I'm a multiplatform application developer and now Big Data developer, I'm passionate about backend and mobile development, especially Kotlin and I think it would be great to work with it, although I'm quite set on node and raise containers and web with aws.</h3>
 
-- 🔭 I’m currently working on [Scalian Spain](https://www.scalian-spain.es/)
+- 🔭 I’m currently working on [Santander](https://www.santander.es/)
+
+- 🔭 First on [Scalian Spain](https://www.scalian-spain.es/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
