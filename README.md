@@ -26,6 +26,6 @@ I’m a **Team Leader at Banco Santander**, specializing in **Big Data with Spar
 - **Others**: Keycloak, Oxide Modding, Firebase, NextUI.  
 
 ### 📫 Get in Touch  
-- 📧 [victoryil.dev@gmail.com](mailto:me@victoryil.com)  
+- 📧 [me@victoryil.com](mailto:me@victoryil.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/victor-daniel-gil-becerra-010140199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - 🏗️ [GitHub](https://github.com/victoryil)  
